@@ -17,6 +17,24 @@ A simple C compiler implementation in Python built from scratch. This compiler s
 3. `code_generator.py` - Generates Python code from the AST
 4. `main.py` - Main entry point of the compiler
 
+# ▶️ How to Run
+1. Clone the repo
+bash
+Copy
+Edit
+git clone https://github.com/Uditatripathi/mini_compiler.git
+cd mini_compiler
+2. Run the compiler
+bash
+Copy
+Edit
+python main.py input.c
+3. Execute the output
+bash
+Copy
+Edit
+python output.py
+
 ## Usage
 
 ```bash
